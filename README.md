@@ -1,1 +1,1 @@
-# score-plinko
+# Plinko
